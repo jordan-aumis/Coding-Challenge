@@ -6,7 +6,7 @@
 Créez une base de donnée nommée 'demoStreaming' et remplissez là avec le fichier 'demoStreaming.sql'
 
 .
-                Installations
+              -INSTALLATION
 
 Il est important de d'abord lancer expressJS avant de lancer l'application react.
 
@@ -21,7 +21,7 @@ Toutes ces commandes sont à faire avec un terminal.
 
 - A l'origine du dossier Faites un 'cd demo-streaming' puis 'npm install'
 
-                Lancer les applications.
+                -LANCEZ LES APPLICATIONS
 
 (EXPRESSJS)
 
