@@ -1,12 +1,12 @@
 # Coding-Challenge
 
 
-                (BDD)
+                        (BDD)
 
 Créez une base de donnée nommée 'demoStreaming' et remplissez là avec le fichier 'demoStreaming.sql'
 
-.
-              -INSTALLATION
+
+                    INSTALLATION
 
 Il est important de d'abord lancer expressJS avant de lancer l'application react.
 
